@@ -1,0 +1,7 @@
+D:\Devansh\C Sharp\Mathsclass\Mathsclass\bin\Debug\Mathsclass.exe.config
+D:\Devansh\C Sharp\Mathsclass\Mathsclass\bin\Debug\Mathsclass.exe
+D:\Devansh\C Sharp\Mathsclass\Mathsclass\bin\Debug\Mathsclass.pdb
+D:\Devansh\C Sharp\Mathsclass\Mathsclass\obj\Debug\Mathsclass.csproj.AssemblyReference.cache
+D:\Devansh\C Sharp\Mathsclass\Mathsclass\obj\Debug\Mathsclass.csproj.CoreCompileInputs.cache
+D:\Devansh\C Sharp\Mathsclass\Mathsclass\obj\Debug\Mathsclass.exe
+D:\Devansh\C Sharp\Mathsclass\Mathsclass\obj\Debug\Mathsclass.pdb
